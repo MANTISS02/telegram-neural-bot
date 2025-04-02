@@ -1,0 +1,25 @@
+# Основной фреймворк для Telegram-бота
+aiogram>=3.0.0
+python-dotenv>=1.0.0
+
+# Асинхронные HTTP-запросы
+aiohttp>=3.8.5
+async-timeout>=4.0.2
+
+# Распознавание речи
+SpeechRecognition>=3.10.0
+vosk>=0.3.45
+
+# Обработка данных
+numpy>=1.24.0
+pydub>=0.25.1
+
+# Утилиты
+python-json-logger>=2.0.7
+requests>=2.31.0
+tenacity>=8.2.3
+typing-extensions>=4.8.0
+tqdm>=4.66.1
+
+# Для сериализации/десериализации данных
+pydantic>=2.4.2 

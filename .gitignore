@@ -1,0 +1,16 @@
+.env
+user_settings.json
+user_history.json
+__pycache__/
+*.py[cod]
+venv/
+env/
+*.tmp
+temp/
+vosk-model-ru-0.22/
+*.wav
+*.ogg
+ffmpeg.exe
+*.log
+*_копия.py
+*.bak 
