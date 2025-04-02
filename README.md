@@ -104,4 +104,4 @@ python Bot.py
 
 ## 👨‍💻 Автор
 
-- [Ваше Имя](https://github.com/MANTISS02)
+- [MANTISS02](https://github.com/MANTISS02)
